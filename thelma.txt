@@ -1,1 +1,2 @@
-"Hi, I am Thelma"
+"Hi, I am Thelma" 
+I am working on git functionalities.
